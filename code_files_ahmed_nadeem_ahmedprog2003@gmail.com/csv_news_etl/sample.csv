@@ -1,0 +1,16 @@
+city,date,temperature
+New York,2025-02-25,5
+Los Angeles,2025-02-25,15
+New York,2025-02-25,5
+Chicago,2025-02-26,10
+Boston,2025-02-27,7
+San Francisco,2025-02-28,20
+Miami,2025-03-01,25
+Houston,2025-03-01,18
+Chicago,2025-02-26,10
+Boston,2025-02-27,7
+Los Angeles,2025-02-25,15
+Seattle,2025-03-02,12
+Denver,,12
+Atlanta,2025-03-03,16
+Philadelphia,2025-03-04,14
